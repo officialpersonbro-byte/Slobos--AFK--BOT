@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "CoolNebulaPlayz.aternos.me",
-    "port": 6961,
+    "port": 16961,
     "version": "1.20.1",
     "try-creative": false
   },
